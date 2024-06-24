@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+joblib
+requests
+selenium
+beautifulsoup4
+nltk
